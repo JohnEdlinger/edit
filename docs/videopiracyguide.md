@@ -991,3 +991,11 @@
 * [SmashyStream API](https://embed.smashystream.com/) - Movies / TV / Anime / API
 * [MoviesAPI](https://moviesapi.club/) - Movies / TV / Anime / API / [Telegram](https://t.me/moviesapi_club)
 * [Wyzie Subs](https://sub.wyzie.ru/) - Subtitle Scraping API / [NPM Package](https://www.npmjs.com/package/wyzie-lib)
+
+***
+
+# ▷ Other Things and Knick-Knacks
+
+* Blender Animations - Movies / Android App
+* Cartoon Video Collection 1 - Cartoons
+* Cartoon Video Collection 2 - Cartoons
